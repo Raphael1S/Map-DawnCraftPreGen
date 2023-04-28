@@ -1,6 +1,6 @@
 # Map-DawnCraftPreGen
 
-O mapa do DawnCraft pré-gerado.
+O mapa pré-gerado do DawnCraft para permitir uma jogabilidade sem problemas de desempenho no ModPack.
 
 # Peso total
 
