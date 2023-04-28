@@ -1,2 +1,3 @@
 # Map-DawnCraftPreGen
-Map-PreGen 1.5
+
+O mapa do DawnCraft pré-gerado.
