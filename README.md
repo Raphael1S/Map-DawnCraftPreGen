@@ -2,7 +2,10 @@
 
 O mapa do DawnCraft pré-gerado.
 
-# Peso total:
+# Peso total
 
-# Chunks Pré Geradas: 0,000,000
-Usando Chunky.
+1 GB de Armazenamento necessário.
+
+# Chunks Pré Geradas
+
+0,000,000
