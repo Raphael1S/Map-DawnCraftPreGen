@@ -4,8 +4,8 @@ O mapa pré-gerado do DawnCraft para permitir uma jogabilidade sem problemas de 
 
 # Peso total
 
-1 GB de Armazenamento necessário.
+1.30 GB de Armazenamento necessário.
 
 # Chunks Pré Geradas
 
-0,000,000
+120.000 mil. Em uma área de 30.000 blocos (3.11%)
