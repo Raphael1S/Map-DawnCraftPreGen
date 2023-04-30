@@ -8,4 +8,4 @@ O mapa pré-gerado do DawnCraft para permitir uma jogabilidade sem problemas de 
 
 # Chunks Pré Geradas
 
-Foram pré geradas **250.000 mil** Chunks em um total de ~ 13 horas.
+Foram pré geradas **250.000 mil** Chunks em um total de ~ +13 horas.
